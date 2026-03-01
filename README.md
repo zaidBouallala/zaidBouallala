@@ -108,7 +108,7 @@ const zaid = {
 ##  Contact
 
 - Telegram → https://t.me/zaidBouallala  
-- LinkedIn → https://www.linkedin.com/in/zaid-bouallala-60513a338  
+- LinkedIn → https://www.linkedin.com/in/bouallala-zaid
 - GitHub → https://github.com/zaidbouallala-alb  
 
 ---
