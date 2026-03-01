@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="32%" />
 
 # Zaid Bouallala
-### Full Stack Engineer
+### Full Stack Developer
 
 <img src="https://readme-typing-svg.herokuapp.com?color=6e7681&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+Engineer;Clean+Code+Advocate;Building+Scalable+Systems"/>
 
