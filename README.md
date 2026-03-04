@@ -8,9 +8,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?color=6e7681&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+Laravel+Engineer;Clean+Code+Advocate;Building+Scalable+Systems"/>
 
 <p>
-<a href="https://github.com/zaidbouallala-alb"><img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github"/></a>
+<a href="https://github.com/zaidbouallala"><img src="https://img.shields.io/badge/GitHub-111111?style=flat&logo=github"/></a>
 <a href="https://gitlab.com/zaidbouallala7"><img src="https://img.shields.io/badge/GitLab-111111?style=flat&logo=gitlab"/></a>
-<a href="https://www.linkedin.com/in/zaid-bouallala-60513a338"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin"/></a>
+<a href="https://www.linkedin.com/in/bouallala-zaid"><img src="https://img.shields.io/badge/LinkedIn-111111?style=flat&logo=linkedin"/></a>
 <a href="https://t.me/zaidBouallala"><img src="https://img.shields.io/badge/Telegram-111111?style=flat&logo=telegram"/></a>
 </p>
 
@@ -60,16 +60,16 @@ const zaid = {
 ##  GitHub Intelligence
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala-alb&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala&theme=github_dark"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidBouallala-alb&theme=github_dark" height="170"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidBouallala-alb&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidBouallala&theme=github_dark" height="170"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidBouallala&theme=github_dark" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala-alb&theme=github_dark&utcOffset=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala&theme=github_dark&utcOffset=1"/>
 </p>
 
 ---
@@ -78,7 +78,7 @@ const zaid = {
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala-alb&theme=github-dark&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala&theme=github-dark&hide_border=true" width="100%"/>
 
 </div>
 
@@ -109,7 +109,7 @@ const zaid = {
 
 - Telegram → https://t.me/zaidBouallala  
 - LinkedIn → https://www.linkedin.com/in/bouallala-zaid
-- GitHub → https://github.com/zaidbouallala-alb  
+- GitHub → https://github.com/zaidbouallala
 
 ---
 
