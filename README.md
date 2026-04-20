@@ -20,113 +20,44 @@
 
 ---
 
-## About Me
+##  About Me
 
-- Full Stack Developer specialized in scalable web applications
-- Focused on performance & clean architecture
-- Problem-solver mindset
-- Passionate about building impactful products
-- Goal -> Become high-level Software Engineer
-
----
-
-## Tech Stack & Latest Blogs
-
-<table width="100%">
-  <tr>
-    <td width="55%" align="center" valign="middle" style="padding: 20px;">
-
-<img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=react" width="48" title="React" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=laravel" width="48" title="Laravel" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=php" width="48" title="PHP" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=python" width="48" title="Python" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=git" width="48" title="Git" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=github" width="48" title="GitHub" />
-
-<br/><br/>
-
-<img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=figma" width="48" title="Figma" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=jest" width="48" title="Jest" />
-&nbsp;
-<img src="https://skillicons.dev/icons?i=redux" width="48" title="Redux" />
-
-    </td>
-    <td width="45%" valign="top" style="padding: 20px;">
-
-```text
-╔══════════════════════════════════════╗
-║      Building Strong Foundations     ║
-╚══════════════════════════════════════╝
-
- -> HTML, CSS, JavaScript, Git & GitHub
-
- -> VS Code & Developer Tools
-
- -> Python (Currently Learning)
-
- -> Computer Science Fundamentals
-
- -> Cyber Security Basics
-
- -> Learning Journey & Tech Blogs
-```
-
-    </td>
-  </tr>
-</table>
+-  Full Stack Developer specialized in scalable web applications  
+-  Focused on performance & clean architecture  
+-  Problem-solver mindset  
+-  Passionate about building impactful products  
+-  Goal → Become high-level Software Engineer  
 
 ---
 
-## Engineering Stack
+##  Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,php,laravel,python,express,mysql,mongodb,docker,git,github,gitlab"/>
+
+</div>
+
+---
+
+##  Engineering Stack
 
 ```js
 const zaid = {
-  frontend  : ["React", "TypeScript", "Redux Toolkit", "Tailwind CSS"],
-  backend   : ["Laravel", "PHP", "Python", "Express"],
-  database  : ["MySQL", "MongoDB", "SQL"],
-  testing   : ["Jest", "PHPUnit"],
-  devOps    : ["Docker", "CI/CD", "GitHub Actions"],
-  tools     : ["Git", "GitHub", "GitLab", "Jira", "SonarQube"],
-  methods   : ["Agile", "Scrum"],
-  arch      : ["REST APIs", "Clean Code", "Scalable Systems"]
+  frontend: ["React","TypeScript","Redux Toolkit","Tailwind"],
+  backend: ["Laravel","PHP","Python","Express"],
+  database: ["MySQL","MongoDB","SQL"],
+  testing: ["Jest","PHPUnit"],
+  devOps: ["Docker","CI/CD","GitHub Actions"],
+  tools: ["Git","GitHub","GitLab","Jira","SonarQube"],
+  methodologies: ["Agile","Scrum"],
+  architecture: ["REST APIs","Clean Code","Scalable Systems"]
 };
 ```
 
 ---
 
-## GitHub Intelligence
+##  GitHub Intelligence
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zaidBouallala&theme=github_dark"/>
@@ -134,7 +65,6 @@ const zaid = {
 
 <p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zaidBouallala&theme=github_dark" height="170"/>
-&nbsp;
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zaidBouallala&theme=github_dark" height="170"/>
 </p>
 
@@ -144,47 +74,47 @@ const zaid = {
 
 ---
 
-## Contribution Activity
+##  Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaidBouallala&theme=github-dark&hide_border=true" width="100%"/>
+
 </div>
 
 ---
 
-## Contribution Snake
+##  Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+
 </div>
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
-| Project | Stack | Description |
-|---------|-------|-------------|
-| Weather App | React + API | Real-time weather integration |
-| Task Manager | Laravel + MySQL | Full-featured task management system |
-| Portfolio Website | Full Stack | Personal showcase & blog |
-| REST API Platform | Express + MongoDB | Scalable API service |
+```md
+🔹 Weather App — React + API Integration  
+🔹 Task Manager — Laravel + MySQL  
+🔹 Portfolio Website — Full Stack  
+🔹 REST API Platform — Express + MongoDB
+```
 
 ---
 
-## Contact
+##  Contact
 
-<p align="center">
-<a href="https://t.me/zaidBouallala"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-&nbsp;
-<a href="https://www.linkedin.com/in/bouallala-zaid"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-&nbsp;
-<a href="https://github.com/zaidbouallala"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+- Telegram → https://t.me/zaidBouallala  
+- LinkedIn → https://www.linkedin.com/in/bouallala-zaid
+- GitHub → https://github.com/zaidbouallala
 
 ---
 
 <div align="center">
 
-"Simplicity is the ultimate sophistication."
+ **"Simplicity is the ultimate sophistication."**
 
 </div>
