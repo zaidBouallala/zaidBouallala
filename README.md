@@ -30,15 +30,48 @@
 
 ---
 
-##  Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,php,laravel,python,express,mysql,mongodb,docker,git,github,gitlab"/>
-
-</div>
+##  Tech Stack & Latest Blogs
 
 ---
+
+<table width="100%" style="background:#0d1117; border-collapse:collapse;">
+  <tr>
+    <!-- Left Column: Scattered Tech Icons -->
+    <td width="52%" align="center" valign="middle" style="padding: 24px; background:#0d1117;">
+      <div style="position: relative; width: 100%; min-height: 320px;">
+
+<img src="https://skillicons.dev/icons?i=html" width="62" style="margin:8px; transform: rotate(-12deg);" />
+<img src="https://skillicons.dev/icons?i=css" width="54" style="margin:10px; transform: rotate(9deg);" />
+<img src="https://skillicons.dev/icons?i=js" width="68" style="margin:6px; transform: rotate(-7deg);" />
+<img src="https://skillicons.dev/icons?i=git" width="52" style="margin:12px; transform: rotate(14deg);" />
+<img src="https://skillicons.dev/icons?i=github" width="72" style="margin:8px; transform: rotate(-5deg);" />
+<img src="https://skillicons.dev/icons?i=vscode" width="58" style="margin:10px; transform: rotate(11deg);" />
+<img src="https://skillicons.dev/icons?i=python" width="70" style="margin:6px; transform: rotate(-10deg);" />
+<img src="https://skillicons.dev/icons?i=nodejs" width="56" style="margin:10px; transform: rotate(6deg);" />
+<img src="https://skillicons.dev/icons?i=react" width="74" style="margin:8px; transform: rotate(-14deg);" />
+<img src="https://skillicons.dev/icons?i=tailwind" width="60" style="margin:9px; transform: rotate(8deg);" />
+<img src="https://skillicons.dev/icons?i=figma" width="50" style="margin:11px; transform: rotate(-6deg);" />
+<img src="https://skillicons.dev/icons?i=mysql" width="66" style="margin:7px; transform: rotate(12deg);" />
+<img src="https://skillicons.dev/icons?i=docker" width="64" style="margin:9px; transform: rotate(-9deg);" />
+<img src="https://skillicons.dev/icons?i=linux" width="58" style="margin:10px; transform: rotate(5deg);" />
+
+      </div>
+    </td>
+
+    <!-- Right Column: Dark Card -->
+    <td width="48%" valign="top" style="padding: 24px; background:#0d1117;">
+      <div style="background:#161b22; border:1px solid #30363d; border-radius:14px; padding:20px; font-family:'Courier New', monospace; color:#c9d1d9;">
+        <h3 align="center" style="margin-top:0; color:#58a6ff;">Building Strong Foundations</h3>
+        <p style="margin:10px 0;">-&gt; HTML, CSS, JavaScript, Git &amp; GitHub </p>
+        <p style="margin:10px 0;">-&gt; VS Code &amp; Developer Tools </p>
+        <p style="margin:10px 0;">-&gt; Python (Currently Learning) </p>
+        <p style="margin:10px 0;">-&gt; Computer Science Fundamentals </p>
+        <p style="margin:10px 0;">-&gt; Cyber Security Basics </p>
+        <p style="margin:10px 0;">-&gt; Learning Journey &amp; Tech Blogs </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ##  Engineering Stack
 
