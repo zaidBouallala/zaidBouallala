@@ -45,7 +45,7 @@
 ```js
 const zaid = {
   frontend: ["React","TypeScript","Redux Toolkit","Tailwind"],
-  backend: ["Laravel","PHP","Python","Express",c++],
+  backend: ["Laravel","PHP","Python","Express","C++"],
   database: ["MySQL","MongoDB","SQL"],
   testing: ["Jest","PHPUnit"],
   devOps: ["Docker","CI/CD","GitHub Actions"],
