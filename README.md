@@ -32,7 +32,7 @@
 
 ##  Tech Stack
 
-<div align="center">
+<div align="">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,php,laravel,python,express,mysql,mongodb,docker,git,github,gitlab,cpp"/>
 
