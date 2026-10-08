@@ -69,7 +69,7 @@ const zaid = {
 </p>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala&theme=github_dark&utcOffset=1"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zaidBouallala&theme=github_dark&utcOffset=0"/>
 </p>
 
 ---
